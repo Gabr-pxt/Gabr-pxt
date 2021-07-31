@@ -1,0 +1,2 @@
+- 👋 Olá, eu sou @Gabr-pxt
+- 🌱 Cursando 4° semestre de Análise e desenvolvimento de sistemas (ou só ADS)
